@@ -1,4 +1,4 @@
-# CodeAlpha Portfolio Website
+#  Portfolio Website
 
 A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript. This project highlights my skills, projects, and contact details with a clean and attractive design.
 
@@ -26,11 +26,6 @@ A modern and responsive personal portfolio website built using HTML, CSS, and Ja
 - Add project images  
 - Improve UI with advanced effects  
 - Add contact form functionality  
-
-##  Acknowledgement
-
-This project is part of the CodeAlpha Frontend Development Internship.
-
 
 ## 📧 Contact
 
